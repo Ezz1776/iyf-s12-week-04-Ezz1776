@@ -1,4 +1,8 @@
 node_modules/
 .vscode/
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> d19dd52 (Complete Week 4 JavaScript Fundamentals)
